@@ -1,0 +1,114 @@
+{
+  "status": "OK",
+  "weather": [{
+    "city_name": "北京",
+    "city_id": "CHBJ000000",
+    "last_update": "2014-01-26T12:52:57+08:00",
+    "now": {
+      "text": "多云",
+      "code": "4",
+      "temperature": "1",
+      "feels_like": "-4",
+      "wind_direction": "南",
+      "wind_speed": "15.64",
+      "wind_scale": "3",
+      "humidity": "47",
+      "visibility": "11.0",
+      "pressure": "1015.92",
+      "pressure_rising": "N/A",
+      "air_quality": {
+        "city": {
+          "aqi": "59",
+          "pm25": "37",
+          "pm10": "66",
+          "so2": "52",
+          "no2": "39",
+          "co": "0.742",
+          "o3": "35",
+          "quality": "良",
+          "last_update": "2014-01-26T11:00:00+08:00"
+        },
+        "stations": [{
+          "aqi": "54",
+          "pm25": "22",
+          "pm10": "57",
+          "so2": "50",
+          "no2": "0",
+          "co": "0.5",
+          "o3": "13",
+          "station": "万寿西宫",
+          "last_update": "2014-01-26T11:00:00+08:00"
+        }, {
+          "aqi": "71",
+          "pm25": "47",
+          "pm10": "92",
+          "so2": "33",
+          "no2": "31",
+          "co": "0.7",
+          "o3": "35",
+          "station": "定陵",
+          "last_update": "2014-01-26T11:00:00+08:00"
+        }]
+      },
+      "alarms": [{
+        "title": "北京市气象台发布霾黄色预警",
+        "type": "霾",
+        "level": "黄色",
+        "status": "预警中",
+        "description": "预计今天白天到夜间，北京市气象条件不利于空气污染物的稀释、扩散和消除，有轻度到中度霾，局地有重度霾，请防范。",
+        "pubdate": "2014-01-26T07:00:36+08:00"
+      }]
+    },
+    "today": {
+      "sunrise": "7:29 AM",
+      "sunset": "5:26 PM",
+      "suggestion": {
+        "dressing": {
+          "brief": "薄冬衣",
+          "details": "棉衣、冬大衣、皮夹克、内着衬衫或羊毛内衣、毛衣、外罩大衣"
+        },
+        "uv": {
+          "brief": "弱",
+          "details": "紫外线弱"
+        },
+        "car_washing": {
+          "brief": "非常适宜",
+          "details": "洗车后至少未来4天内没有降水、大风、沙尘天气，保洁时间长，非常适宜洗车。"
+        },
+        "travel": {
+          "brief": "不太适宜",
+          "details": "天气较冷，不太适宜旅游；"
+        },
+        "flu": {
+          "brief": "多发期",
+          "details": "天气较冷，室内外温差较大，较易引起感冒；"
+        },
+        "sport": {
+          "brief": "不适宜",
+          "details": "天气较冷，多数人不适宜户外运动；"
+        }
+      }
+    },
+    "future": [{
+      "date": "2014-01-26",
+      "day": "周日",
+      "text": "多云",
+      "code1": "4",
+      "code2": "4",
+      "high": "4",
+      "low": "-5",
+      "cop": "0%",
+      "wind": "微风小于3级"
+    }, {
+      "date": "2014-01-27",
+      "day": "周一",
+      "text": "多云/晴",
+      "code1": "4",
+      "code2": "1",
+      "high": "10",
+      "low": "-6",
+      "cop": "0%",
+      "wind": "微风小于3级"
+    }]
+  }]
+}

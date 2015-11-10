@@ -1,0 +1,1 @@
+include ':myapplication', ':mytest', ':myweather', ':weather', ':findcontact', ':mypicture'
