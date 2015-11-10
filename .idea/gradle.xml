@@ -10,12 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/findcontact" />
             <option value="$PROJECT_DIR$/myapplication" />
-            <option value="$PROJECT_DIR$/mypicture" />
-            <option value="$PROJECT_DIR$/mytest" />
-            <option value="$PROJECT_DIR$/myweather" />
-            <option value="$PROJECT_DIR$/weather" />
           </set>
         </option>
       </GradleProjectSettings>
